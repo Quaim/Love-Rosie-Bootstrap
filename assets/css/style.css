@@ -25,7 +25,9 @@
 .ui-menu-color-download {
     background-color: #525252;
 }
-
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
 
 /* sPECIAL PADDINGS/MARGINS/TEXT*/
 
@@ -214,4 +216,72 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/*THREE REASONS */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+}
+
+/*Ppersonal info */
+.person-info-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.person-info-item .key, 
+.person-info-item .value {
+    padding-right: 8px;
+    display: inline-block;
+}
+
+.person-info-item .key p, 
+.person-info-item .value p {
+
+    margin: 0;
+}
+
+.person-info-item .key {
+    width: 30%;
+    margin-right: 21px;
+    padding-top: 2px;
+    vertical-align: top;
+}
+
+.person-info-item .key p {
+    font-weight: 700;
+}
+
+.person-info-item .value {
+    width: 60%;
+    position: relative;
+}
+
+
+/* SKILLS */ 
+
+.progress {
+    position: relative;
+    height: 25px;
+    margin-bottom: 4px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #fafafa;
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+.progress-section {
+    margin: 40px 20px;
 }
