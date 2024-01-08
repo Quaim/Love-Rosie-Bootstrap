@@ -1,5 +1,5 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
+![rosie](https://github.com/Quaim/Love-Rosie-Bootstrap/assets/46206461/f0069453-1e10-49da-9398-89b925718cb0)
 Welcome Ellis Taylor,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
